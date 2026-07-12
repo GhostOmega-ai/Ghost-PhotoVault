@@ -116,3 +116,18 @@ README.md
 - Rename pencil is fixed independently at the far-right edge
 - Pencil no longer pushes the filename off-centre
 - Long names truncate cleanly with an ellipsis
+
+# Ghost Photo Vault v0.8.3
+
+## True Centre Name Fix
+
+### Changes
+- Fixed the Photo Info filename so it stays perfectly centred.
+- Pencil rename button now floats independently on the far right.
+- Long filenames no longer get pushed left by the rename button.
+- Improved layout consistency in the Photo Info panel.
+
+### Files to replace
+- css/photo.css
+
+No JavaScript changes in this update.
